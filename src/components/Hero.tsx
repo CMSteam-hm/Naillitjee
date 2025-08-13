@@ -74,7 +74,7 @@ const Hero: React.FC = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/public/images/IMG-20250707-WA0006.jpg"
                 alt="Professional nail care"
                 className="rounded-3xl shadow-2xl w-full max-w-md mx-auto"
               />

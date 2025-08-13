@@ -69,22 +69,22 @@ const Footer: React.FC = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-rose-400 mt-0.5 flex-shrink-0" />
                 <div>
-                  <p>123 Beauty Avenue</p>
-                  <p>Salon District, SD 12345</p>
+                  <p>63 yaya abatan</p>
+                  <p>Road Ogba, Lagos, Nigeriathji</p>
                 </div>
               </div>
               
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-rose-400 flex-shrink-0" />
                 <a href="tel:+1234567890" className="hover:text-rose-400 transition-colors">
-                  (123) 456-7890
+                  (234) 8023873589
                 </a>
               </div>
               
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-rose-400 flex-shrink-0" />
                 <a href="mailto:info@luxenails.com" className="hover:text-rose-400 transition-colors">
-                  info@nails.com
+                  naillitjee@gmail.com
                 </a>
               </div>
             </div>

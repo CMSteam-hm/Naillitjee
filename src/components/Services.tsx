@@ -86,7 +86,7 @@ const Services: React.FC<ServicesProps> = ({ onAddToCart, cartItems }) => {
                   </div>
                   <div className="flex items-center text-rose-600">
                     <Tag className="h-4 w-4 mr-1" />
-                    <span className="text-xl font-bold">${service.price}</span>
+                    <span className="text-xl font-bold">₦{service.price}</span>
                   </div>
                 </div>
 
