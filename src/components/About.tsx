@@ -74,19 +74,19 @@ const About: React.FC = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <img
-                  src="https://images.pexels.com/photos/3997962/pexels-photo-3997962.jpeg?auto=compress&cs=tinysrgb&w=400"
+                  src="/images/IMG-20250707-WA0010.jpg"
                   alt="Spa environment"
                   className="w-full rounded-2xl shadow-lg"
                 />
                 <img
-                  src="https://images.pexels.com/photos/3997386/pexels-photo-3997386.jpeg?auto=compress&cs=tinysrgb&w=400"
+                  src="/images/IMG-20250707-WA0005.jpg"
                   alt="Nail art"
                   className="w-full rounded-2xl shadow-lg"
                 />
               </div>
               <div className="space-y-4 pt-8">
                 <img
-                  src="https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=400"
+                  src="/images/IMG-20250707-WA0007.jpg"
                   alt="Pedicure service"
                   className="w-full rounded-2xl shadow-lg"
                 />
