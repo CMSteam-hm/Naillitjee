@@ -3,7 +3,7 @@ import { Service } from '../types';
 export const services: Service[] = [
   {
     id: '1',
-    name: 'Classic Manicure',
+    name: 'Dip French tip',
     description: 'Professional nail shaping, cuticle care, and polish application',
     price: 10500,
     duration: '45 min',
@@ -30,7 +30,7 @@ export const services: Service[] = [
   },
   {
     id: '4',
-    name: 'Classic Pedicure',
+    name: 'Natural Gel Rap',
     description: 'Foot soak, nail trimming, callus removal, and polish',
     price: 10000,
     duration: '60 min',
