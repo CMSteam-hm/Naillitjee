@@ -190,7 +190,7 @@ const Checkout: React.FC<CheckoutProps> = ({ isOpen, onClose, cartItems, onClear
                         <h4 className="font-medium text-gray-800">{item.service.name}</h4>
                         <p className="text-gray-500 text-sm">{item.service.duration}</p>
                         <p className="text-rose-600 font-semibold">
-                          ${item.service.price} × {item.quantity}
+                          ₦{item.service.price} × {item.quantity}
                         </p>
                       </div>
                       <div className="text-right">
